@@ -1,0 +1,12 @@
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\bin\Debug\PostCommentModel.dll.config
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\bin\Debug\PostCommentModel.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\bin\Debug\PostCommentModel.pdb
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\bin\Debug\EntityFramework.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\bin\Debug\EntityFramework.xml
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\obj\Debug\PostCommentModel.csprojAssemblyReference.cache
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\obj\Debug\PostCommentModel.csproj.CoreCompileInputs.cache
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\obj\Debug\PostCommentModel.csproj.CopyComplete
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\obj\Debug\PostCommentModel.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentModel\obj\Debug\PostCommentModel.pdb

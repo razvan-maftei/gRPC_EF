@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+option csharp_namespace = "PostCommentService";
+
+import "google/protobuf/timestamp.proto";
+
+package PC;
+
+service PostCommentService {
+    rpc AddPost (Post) returns (Empty);
+    rpc UpdatePost (Post) returns (Post);
+    rpc DeletePost (Post) returns (Empty);
+    rpc GetPostById (id) returns (Empty);
+    rpc GetPosts (Empty) returns (Posts);
+    rpc AddComment (Comment) returns (Empty);
+    rpc UpdateComment (Comment) returns (Comment);
+    rpc GetcommentById (id) returns (Comment);
+}
+
+message Post {
+    int32 PostId = 1;
+    string Description = 2;
+    string Domain = 3;
+    google.protobuf.Timestamp Date = 4;
+    Comments Comments = 5;
+}
+
+message Comment {
+    int32 CommentId = 1;
+    string Test = 2;
+    int32 PostPostId = 3;
+    Post Post = 4;
+}
+
+message Comments {
+    repeated Comment items = 1;
+}
+
+message Posts {
+    repeated Post items = 1;
+}
+
+message id {
+    int32 id = 1;
+}
+
+message Empty {
+
+}

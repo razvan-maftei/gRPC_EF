@@ -1,0 +1,14 @@
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\bin\Debug\netcoreapp3.1\PostCommentModel.dll
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\obj\Debug\netcoreapp3.1\PostCommentService.csprojAssemblyReference.cache
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\obj\Debug\netcoreapp3.1\PostCommentService.AssemblyInfoInputs.cache
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\obj\Debug\netcoreapp3.1\PostCommentService.AssemblyInfo.cs
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\obj\Debug\netcoreapp3.1\PostCommentService.RazorTargetAssemblyInfo.cache
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\obj\Debug\netcoreapp3.1\PostCommentService.csproj.CoreCompileInputs.cache
+C:\Users\raste\source\repos\gRPC_EF\PostCommentService\obj\Debug\netcoreapp3.1\PostCommentService.MvcApplicationPartsAssemblyInfo.cache
